@@ -1,2 +1,3 @@
-admicro.vn
-vungle.com
+||admicro.vn
+||vungle.com
+||coppersurfer.tk
